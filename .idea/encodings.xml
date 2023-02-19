@@ -11,6 +11,7 @@
     <file url="file://$PROJECT_DIR$/Ch3_Databases/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Ch3_Databases/src/main/java/dbService" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/Ch3_Databases/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/h2db.mv.db" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/Ch4_WebSocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch4_WebSocket/src/main/resources" charset="UTF-8" />
   </component>
 </project>
