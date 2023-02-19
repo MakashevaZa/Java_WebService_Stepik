@@ -4,5 +4,13 @@
     <file url="file://$PROJECT_DIR$/Ch1_Simple_Web_Server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Ch1_Simple_Web_Server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Ch1_Simple_Web_Server/templates" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch2_Authorization/public_html/index.html" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Ch2_Authorization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch2_Authorization/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch3_Databases/public_html/index.html" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Ch3_Databases/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch3_Databases/src/main/java/dbService" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Ch3_Databases/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/h2db.mv.db" charset="UTF-16" />
   </component>
 </project>

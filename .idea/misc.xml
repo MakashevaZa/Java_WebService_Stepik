@@ -6,6 +6,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Ch1_Simple_Web_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Authorization/pom.xml" />
+        <option value="$PROJECT_DIR$/Ch2 Authorization/pom.xml" />
+        <option value="$PROJECT_DIR$/Ch2_Authorization/pom.xml" />
+        <option value="$PROJECT_DIR$/Ch3_Databases/pom.xml" />
       </list>
     </option>
   </component>
